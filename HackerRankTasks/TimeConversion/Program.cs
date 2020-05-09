@@ -6,6 +6,7 @@
     public class Program
     {
         // Solution passed all tests 100/100
+        // test
         /// <summary>
         /// https://www.hackerrank.com/challenges/time-conversion/problem
         /// </summary>
